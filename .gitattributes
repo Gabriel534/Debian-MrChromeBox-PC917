@@ -1,0 +1,4 @@
+*.sna filter=lfs diff=lfs merge=lfs -text
+*.hsh filter=lfs diff=lfs merge=lfs -text
+*.sn1 filter=lfs diff=lfs merge=lfs -text
+*.sn2 filter=lfs diff=lfs merge=lfs -text
